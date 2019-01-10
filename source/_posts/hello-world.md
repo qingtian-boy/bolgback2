@@ -18,6 +18,7 @@ More info: [Writing](https://hexo.io/docs/writing.html)
 ``` bash
 $ hexo server
 ```
+<a class="artcle-more-a" href="">more>></a>
 
 More info: [Server](https://hexo.io/docs/server.html)
 
